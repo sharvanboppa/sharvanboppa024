@@ -55,7 +55,7 @@ I'm interested in entry-level opportunities in Python Development, Data Science,
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sharvan-boppa-8860a0376/
+- 💼 LinkedIn: www.linkedin.com/in/sharvan-boppa
 - 📧 Email: boppasharvan024@gmail.com 
 - 🐙 GitHub: https://github.com/sharvanboppa024
 
